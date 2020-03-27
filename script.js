@@ -1,3 +1,4 @@
 function smthToDo(){
-  //to do
+  //I did smth here
+  return true
 }
